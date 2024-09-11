@@ -11,6 +11,8 @@
 	--debug-outline: calc(2px * var(--debug-mode)) solid red;
 	--dark-mode-enabled: 1;
 	--dark-mode-switcher-bg: #222;
+	--dark-mode-bmlb: none;
+	--dark-mode-bmlw: block;
 }
 
 :root:has(#theme-switcher-button:checked) {
@@ -19,6 +21,9 @@
 	--main-accent: #b14800;
 	--dark-mode-enabled: 0;
 	--dark-mode-switcher-bg: #666;
+	--dark-mode-bmlb: block;
+	--dark-mode-bmlw: none;
+
 }
 
 /* --- Global --- */
@@ -215,11 +220,14 @@ footer>* {
 	text-align: center;
 }
 
-#brainmade img {
-	background-image: url("./assets/brainmade/white-logo.png");
-	/* outline: 1px solid red; */
-
+#brainmade-logo-black {
+	display: var(--dark-mode-bmlb);
 }
+
+#brainmade-logo-white {
+	display: var(--dark-mode-bmlw);
+}
+
 
 
 /* --- home --- */
