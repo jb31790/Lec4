@@ -4,6 +4,9 @@ Lecture 4
 # DISCLAIMER:
 I won't do a single webpage for each tasks, I'm only going to make one page that meets the requirements in all of the tasks below.
 
+Also make sure to **not miss** my theme-switcher, made with pure CSS, no html-buttons or js involved.
+
+
 # Tasks
 ## Task 1: Basic CSS Styling
  - Using the knowledge from Lectures 2 and 3 on HTML structures and semantics, create an HTML page about your favorite hobby. Use CSS to style the page with colors, typography, and backgrounds. Ensure the page is visually appealing.

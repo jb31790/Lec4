@@ -1,21 +1,27 @@
-https://cdn.pixabay.com/photo/2023/01/11/08/05/humboldt-penguin-7711121_1280.jpg
-https://cdn.pixabay.com/photo/2021/12/31/11/51/penguin-6905568_1280.jpg
-https://cdn.pixabay.com/photo/2021/11/09/17/08/bird-6781956_1280.jpg
-https://cdn.pixabay.com/photo/2020/01/13/12/53/port-stanley-4762324_1280.jpg
-https://cdn.pixabay.com/photo/2017/02/27/20/31/penguin-2104173_1280.jpg
-https://cdn.pixabay.com/photo/2023/02/17/08/44/king-penguin-7795519_1280.jpg
-https://cdn.pixabay.com/photo/2022/03/16/21/02/gentoo-penguin-7073394_1280.jpg
-https://cdn.pixabay.com/photo/2021/08/24/23/06/penguin-6572057_1280.jpg
-https://cdn.pixabay.com/photo/2017/04/05/10/25/penguin-2204566_1280.jpg
-https://cdn.pixabay.com/photo/2019/11/10/08/36/zoo-4615209_1280.jpg
-https://cdn.pixabay.com/photo/2016/09/29/16/37/king-penguin-1703286_1280.jpg
-https://cdn.pixabay.com/photo/2016/01/21/18/41/king-penguin-1154432_1280.jpg
-https://cdn.pixabay.com/photo/2017/07/30/17/49/penguin-2555024_1280.jpg
-https://cdn.pixabay.com/photo/2020/02/17/08/36/penguin-4855888_1280.jpg
-https://cdn.pixabay.com/photo/2022/11/23/10/36/penguin-7611836_1280.jpg
-https://cdn.pixabay.com/photo/2021/08/18/08/36/penguin-6554999_1280.jpg
-https://cdn.pixabay.com/photo/2016/05/31/16/04/humboldt-penguin-1427228_1280.jpg
-https://cdn.pixabay.com/photo/2018/10/01/14/21/penguin-3716363_1280.jpg
-https://cdn.pixabay.com/photo/2020/07/17/14/23/penguin-5414261_1280.jpg
-https://cdn.pixabay.com/photo/2015/04/07/20/57/bird-711774_1280.jpg
-https://cdn.pixabay.com/photo/2018/02/22/17/42/bird-3173512_1280.jpg
+<img src="https://cdn.pixabay.com/photo/2023/01/11/08/05/humboldt-penguin-7711121_1280.jpg" alt="Penguin 1">
+<img src="https://cdn.pixabay.com/photo/2021/12/31/11/51/penguin-6905568_1280.jpg" alt="Penguin 2">
+<img src="https://cdn.pixabay.com/photo/2021/11/09/17/08/bird-6781956_1280.jpg" alt="Penguin 3">
+<img src="https://cdn.pixabay.com/photo/2020/01/13/12/53/port-stanley-4762324_1280.jpg" alt="Penguin 4">
+<img src="https://cdn.pixabay.com/photo/2017/02/27/20/31/penguin-2104173_1280.jpg" alt="Penguin 5">
+<img src="https://cdn.pixabay.com/photo/2023/02/17/08/44/king-penguin-7795519_1280.jpg" alt="Penguin 6">
+<img src="https://cdn.pixabay.com/photo/2022/03/16/21/02/gentoo-penguin-7073394_1280.jpg" alt="Penguin 7">
+<img src="https://cdn.pixabay.com/photo/2021/08/24/23/06/penguin-6572057_1280.jpg" alt="Penguin 8">
+<img src="https://cdn.pixabay.com/photo/2017/04/05/10/25/penguin-2204566_1280.jpg" alt="Penguin 9">
+<img src="https://cdn.pixabay.com/photo/2019/11/10/08/36/zoo-4615209_1280.jpg" alt="Penguin 10">
+<img src="https://cdn.pixabay.com/photo/2016/09/29/16/37/king-penguin-1703286_1280.jpg" alt="Penguin 11">
+<img src="https://cdn.pixabay.com/photo/2016/01/21/18/41/king-penguin-1154432_1280.jpg" alt="Penguin 12">
+<img src="https://cdn.pixabay.com/photo/2017/07/30/17/49/penguin-2555024_1280.jpg" alt="Penguin 13">
+<img src="https://cdn.pixabay.com/photo/2020/02/17/08/36/penguin-4855888_1280.jpg" alt="Penguin 14">
+<img src="https://cdn.pixabay.com/photo/2022/11/23/10/36/penguin-7611836_1280.jpg" alt="Penguin 15">
+<img src="https://cdn.pixabay.com/photo/2021/08/18/08/36/penguin-6554999_1280.jpg" alt="Penguin 16">
+<img src="https://cdn.pixabay.com/photo/2016/05/31/16/04/humboldt-penguin-1427228_1280.jpg" alt="Penguin 17">
+<img src="https://cdn.pixabay.com/photo/2018/10/01/14/21/penguin-3716363_1280.jpg" alt="Penguin 18">
+<img src="https://cdn.pixabay.com/photo/2020/07/17/14/23/penguin-5414261_1280.jpg" alt="Penguin 19">
+<img src="https://cdn.pixabay.com/photo/2015/04/07/20/57/bird-711774_1280.jpg" alt="Penguin 20">
+<img src="https://cdn.pixabay.com/photo/2018/02/22/17/42/bird-3173512_1280.jpg" alt="Penguin 21">
+
+
+http://images5.fanpop.com/image/photos/30300000/Skipper-skipper-fanclub-30338305-720-480.jpg
+http://images5.fanpop.com/image/photos/27100000/Private-private-the-penguin-27143634-720-480.jpg
+http://images4.fanpop.com/image/photos/23100000/Pictures-Kowalski-kowalski-23171476-637-470.png
+http://images5.fanpop.com/image/photos/25500000/Rico-rico-the-penguins-of-madagascar-25561595-1250-833.jpg
